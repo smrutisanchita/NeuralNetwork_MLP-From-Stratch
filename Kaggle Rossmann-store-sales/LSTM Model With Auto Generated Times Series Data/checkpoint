@@ -1,0 +1,2 @@
+model_checkpoint_path: "Weights_ross_v.02_temp"
+all_model_checkpoint_paths: "Weights_ross_v.02_temp"
